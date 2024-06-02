@@ -1,0 +1,16 @@
+.heading{
+    text-align: right;
+    color: black;
+}
+.finding{
+    text-align: right;
+    color: crimson;
+}
+.middle{
+    text-align: center;
+    color: crimson;
+}
+.move{
+    text-align: center;
+    color: black;
+}
